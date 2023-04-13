@@ -9,7 +9,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SaiProton&theme=gruvbox)](https://git.io/streak-stats)
 
 ### Statistics
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiProton)](https://github.com/anuraghazra/github-readme-stats)
-
-### Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiProton)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SaiProton&count_private=true&theme=gruvbox" height="200"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiProton&hide_progress=true&langs_count=10&theme=gruvbox" height="200" />
+</a>
