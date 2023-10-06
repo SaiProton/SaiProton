@@ -13,5 +13,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShyProton&count_private=true&theme=gruvbox" height="200"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyProtonn&hide_progress=true&langs_count=10&theme=gruvbox" height="200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyProton&hide_progress=true&langs_count=10&theme=gruvbox" height="200" />
 </a>
