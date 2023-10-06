@@ -1,4 +1,4 @@
-<h1 align="center">Hello hello, welcome to my profile <img src="https://media.tenor.com/As8YSid1nQsAAAAC/dancing-dance.gif" width="40"></h1>
+<h1 align="center">Hello hello, welcome to my profile <img src="/spamton-dance.gif?raw=true" width="40"></h1>
 
 # About me
 - Currently a student at **Ontario Tech University**, majoring in Computer Science.
