@@ -15,3 +15,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyProton&hide_progress=true&langs_count=10&theme=gruvbox" height="200" />
 </a>
+
+### Badges
+[![An image of @shyproton's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shyproton)](https://holopin.io/@shyproton)
